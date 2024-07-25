@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate in more Hypixel Remakes
 - 📫 How to reach me contact me at discord .thehumbleguy
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I started development in 2021
 
 <!---
 TheHumbleGuyy/TheHumbleGuyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
